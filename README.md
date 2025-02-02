@@ -3,8 +3,11 @@
 Funcionalidades
 
 ✅ Exibe números de 0 a 9 em uma matriz de 5x5 LEDs WS2812.
+
 ✅ Dois botões controlam a exibição (incremento/decremento).
+
 ✅ Evita leitura duplicada de botões com debounce.
+
 ✅ Pisca o LED embutido no Raspberry Pi Pico
 
 Vídeo demonstrativo: https://www.youtube.com/watch?v=bzi8vDwygwk
